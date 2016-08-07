@@ -9,7 +9,7 @@
 html,
 body {
     height: 100%;
-    background-color: #e2e2e2;
+    background-color: #FFF;
     overflow-x: hidden;
 }
 
@@ -199,4 +199,20 @@ ul {
 button {
     margin: 20px 5px 0px 5px;
 
+}
+
+.btn-primary, .btn-secondary{
+  margin-top: 5px;
+}
+
+#about-body, #clients-body{
+  margin-top: 120px;
+}
+
+.padding-0 {
+    padding: 0;
+}
+
+th, tr{
+  text-align: center;
 }
