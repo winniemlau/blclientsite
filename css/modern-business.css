@@ -245,6 +245,10 @@ a:hover{
   color: #efc917;
 }
 
+.fa-2x:hover{
+  color: #215485;
+}
+
 .text-white{
   color: #FFF !important;
 }
