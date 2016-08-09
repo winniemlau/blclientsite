@@ -97,7 +97,7 @@ footer {
 
 .navbar-collapse{
   height: 50%;
-  margin: 65px;
+  margin: 20px 65px 65px 65px;
 
 }
 
@@ -290,4 +290,17 @@ hr{
 
 #contact-body, #clients-body, #candidates-body, #employees-body{
   margin-top: 20px;
+}
+
+.navbar-header{
+  margin-top: 20px;
+}
+
+
+.carousel-inner > .item > .fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 500px;
 }
